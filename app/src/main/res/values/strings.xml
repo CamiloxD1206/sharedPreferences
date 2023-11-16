@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">sharedPreferences</string>
+    <string name="vip">VIP</string>
+    <string name="continuar">Continuar</string>
+    <string name="bienvenida">Bienvenido Tal</string>
+    <string name="cerrar">Cerrar Sesion</string>
+
+</resources>
